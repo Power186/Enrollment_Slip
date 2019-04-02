@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     
     //ENTER STUDENT NAME
-    string a = "Clifford Winburn";
+    string a = "Good Student";
     
     //ENTER PROGRAM/COURSE
     string b = "Bachelor of Science in Computer Science";
